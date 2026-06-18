@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>EndlessNet APT</title>
+  <title>UNNG APT</title>
   <style>
     body { font-family: system-ui, sans-serif; max-width: 760px; margin: 48px auto; padding: 0 20px; line-height: 1.5; color: #17211f; }
     code, pre { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
@@ -12,13 +12,14 @@
   </style>
 </head>
 <body>
-  <h1>EndlessNet APT</h1>
-  <p>APT repository for EndlessNet Debian and Ubuntu packages.</p>
+  <h1>UNNG APT</h1>
+  <p>APT repository for UNNG Debian and Ubuntu packages.</p>
   <pre><code>sudo install -d -m 0755 /etc/apt/keyrings
-curl -fsSL https://apt.unng.ru/apt/endlessnet.gpg | sudo tee /etc/apt/keyrings/endlessnet.gpg &gt;/dev/null
-echo "deb [signed-by=/etc/apt/keyrings/endlessnet.gpg] https://apt.unng.ru/apt stable main" | sudo tee /etc/apt/sources.list.d/endlessnet.list
-sudo apt update
-sudo apt install endlessnet-client</code></pre>
+curl -fsSL https://apt.unng.ru/apt/unng.gpg | sudo tee /etc/apt/keyrings/unng.gpg &gt;/dev/null
+echo "deb [signed-by=/etc/apt/keyrings/unng.gpg] https://apt.unng.ru/apt stable main" | sudo tee /etc/apt/sources.list.d/unng.list
+sudo apt update</code></pre>
+  <p>Install a package, for example:</p>
+  <pre><code>sudo apt install endlessnet-client</code></pre>
   <p>Repository metadata is published under <a href="/apt/dists/stable/">/apt/dists/stable/</a>.</p>
 </body>
 </html>
