@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Tue, 23 Jun 2026 20:56:23 +0000
+Description: UNNG APT repository
+Label: UNNG
+Origin: UNNG
+Suite: stable
+MD5Sum:
+ 849d145a1cf62876f3394e4fc27ffd46              171 Release
+ 202ff3b9a6ad231e2d2e4e925c9033ee              585 main/binary-amd64/Packages
+ c8f1e77fa857bc8de4b6415d29417996              396 main/binary-amd64/Packages.gz
+ e39baf123c6ae6187f8bdd7fd770c276              585 main/binary-arm64/Packages
+ a0d26df6ff99edb9ff1defc6f8aa2f2f              397 main/binary-arm64/Packages.gz
+SHA1:
+ 95a951e05cbc870d3423faef67a3d9228e89ab08              171 Release
+ 55410b587205c1d54b63e646ee3ce3f1d965b93b              585 main/binary-amd64/Packages
+ 2180f969d0a531cc11db6f413a27791e94ab676c              396 main/binary-amd64/Packages.gz
+ 191cd51296876f5bdbff24b302378fd55ba03bef              585 main/binary-arm64/Packages
+ 1207a16d809ffeefa537bf6a6e10978f2a05fef2              397 main/binary-arm64/Packages.gz
+SHA256:
+ 87af06299054ed3c872aee181ccdee46ab90dfaaaad19ce73d56458254776401              171 Release
+ 51db5692490b57482f54d980e79d809813019755fb8eb91ffb4134dd0544ef20              585 main/binary-amd64/Packages
+ b270ce292c1bf16778a9d97ece5451386d7a4d3d5b63f27aec27af9326630cc9              396 main/binary-amd64/Packages.gz
+ bfbc9f71dbcf951203d5de1e072ad3b87232c28c0682aba51678bda5776b7264              585 main/binary-arm64/Packages
+ aefa8aa117e7b4ff1ea1285a32eefd12dbbbdb595325b2d709d792f4406c2889              397 main/binary-arm64/Packages.gz
+SHA512:
+ 108fd32e86a7d0ac0333173bbd5c056f52096169ebdc546bd9e92df685f44cdaae65d4ab69a795567c8a13e21cc490b248bdda615108fd34754029fe96f5993a              171 Release
+ db5e258c36b2f0d7efec8bea35eb9849736e0fe92e33fea760af46335c49224aca7ff59c53a063a3d026f01653e8be28b2a95cf61731a56efc6ad7039f3c220b              585 main/binary-amd64/Packages
+ e8df7907249d9963c33d91fc2506b981b66a3d4701099dcc0577fb372317df0bd95a0b16258d00fc4f94486e1aded0d77c2cd3f53361240abed69de12fbe5588              396 main/binary-amd64/Packages.gz
+ dc29cdc30edb6c75c2c2c03ef83dce52bfcebaed4766ad9642b446aeecb456822c052b40cc4c49e86106855f675b87f6187670d273d0cbf22bb91c6ac103d513              585 main/binary-arm64/Packages
+ 08b742f396fc57ec110b3e966e54891d625f7da835d3b6feb3ad2a11ef0d8fde6bece2b84a9a37201ccfdd44b70b3170a72bf5ef1237d19d0fc819c37fa5bfcc              397 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEbUrLMEks1kwNve6akBBH7duFakgFAmo68vcACgkQkBBH7duF
+akgLYQwAt5AWrnNdYsiBBPFoYw/NFW5sysJdXWFrN/o+Y0bk8pc0o23WPfJNzWv0
+IQufhERkzU+/dCzCMKM2VL+gf1M22lDy+y9spSJQ6m1Sx3mkl3+thToBD+H+cArv
+fkI0Er/V9ba0pMBcvsqfKbnGAvwrH4weCDWqN1VkBaRtEXF8QSSva4Sb41yR95Q1
+9jr422LNVPDUCC2AFODDF+LiF8/BOV9PCAj9L6In0y2tSH+YxfXi+hR8xEO8ifca
+vc/I4OANMnUR0sUnLxwZ//ZcSVd9G3Zoh7oqg+kDjWIc99voZkS2dSBGH4f8T1Fv
+wW2rOL4a+5eArFc3VNrQxYLgGD20KJyQtqsCaT7NYV5ltJY/CYihST984o8FX8ny
+DEkhAXxB0b3qzdifaZhlbXN+N44xpiodtLgU3pLbgjmwAhT27buNoZ9V71vo30Q3
+gdu1bze7wpi0vF1Pvp9F2AEOnTcGIBycZqeyPPHj2PyzF+cfwwFXMumn7UiKBveE
+0BHNW7TX
+=nuyG
+-----END PGP SIGNATURE-----

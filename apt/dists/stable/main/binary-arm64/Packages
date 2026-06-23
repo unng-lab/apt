@@ -1,0 +1,16 @@
+Package: endlessnet-client
+Version: 0.0.0+e96b0aaa64f5
+Architecture: arm64
+Maintainer: EndlessNet <support@endlessnet.ru>
+Installed-Size: 6228
+Filename: pool/main/e/endlessnet-client/endlessnet-client_0.0.0+e96b0aaa64f5_arm64.deb
+Size: 2158638
+MD5sum: b55910cab2c88e3a3b137cab41a713d8
+SHA1: f1a182e1fae585c90671c6d79ba384da17f9295f
+SHA256: 4180e6fd1cc3325a1e0302be503cefce70fe8529d76f36fe36ea021b7f395112
+Section: net
+Priority: optional
+Description: EndlessNet CLI client
+ EndlessNet client registers nodes with the control plane and renders
+ WireGuard-compatible peer configuration.
+
