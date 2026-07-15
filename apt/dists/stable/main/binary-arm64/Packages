@@ -14,3 +14,19 @@ Description: EndlessNet CLI client
  EndlessNet client registers nodes with the control plane and renders
  WireGuard-compatible peer configuration.
 
+Package: unng-archive-keyring
+Version: 2026071501
+Architecture: all
+Maintainer: EndlessNet <support@endlessnet.ru>
+Filename: pool/main/u/unng-archive-keyring/unng-archive-keyring_2026071501_all.deb
+Size: 1604
+MD5sum: 70452e223d20c21bb7718464a248a562
+SHA1: d0ac0136fdd3cc13e83f6279baa633e4b6850c8b
+SHA256: aafea093d111a17300caaf5b5be4251f5ac3fabf9039876f59178cdc5006b0e9
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: OpenPGP keys for the UNNG APT repository
+ This package contains the trusted public keys used to verify metadata from
+ the UNNG APT repository at https://apt.unng.ru/apt.
+
