@@ -1,13 +1,13 @@
 Package: endlessnet-client
-Version: 0.0.3
+Version: 0.0.4
 Architecture: arm64
 Maintainer: EndlessNet <support@endlessnet.ru>
 Installed-Size: 8776
-Filename: pool/main/e/endlessnet-client/endlessnet-client_0.0.3_arm64.deb
-Size: 2932530
-MD5sum: 8d9e32eba3cbe64c3dfb2f1cf0de727a
-SHA1: 395d90e5d1ccd0b24c15bfceb0da943ec48f90df
-SHA256: 63c8b3dfc0b5e18083224d7ad56ff2d8067d0d527205eb2c38e2b81d4ffe6d79
+Filename: pool/main/e/endlessnet-client/endlessnet-client_0.0.4_arm64.deb
+Size: 2935062
+MD5sum: 17ebf5674632b53419ba5f8a9b7f679e
+SHA1: c338a8d9d5f3bf939ea93753f399f70be3c5005c
+SHA256: f019c34ce8aeb8930f46cc6cf5f4707684b3abe73ae880a6af44f63849ab779f
 Section: net
 Priority: optional
 Description: EndlessNet CLI client
