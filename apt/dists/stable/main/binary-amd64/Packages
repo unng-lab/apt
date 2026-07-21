@@ -1,13 +1,13 @@
 Package: endlessnet-client
-Version: 0.2.1
+Version: 0.2.2
 Architecture: amd64
 Maintainer: EndlessNet <support@endlessnet.ru>
-Installed-Size: 9220
-Filename: pool/main/e/endlessnet-client/endlessnet-client_0.2.1_amd64.deb
-Size: 3194348
-MD5sum: b07771e8c6bdc7faccba0c1d0e9b901d
-SHA1: 38d4acd49ede9d2acfd74c6b974b7e011ce1ef66
-SHA256: 58b450012b83eb8672a663baae57fa80616748bfd54ba1efdbd2b343c9205a19
+Installed-Size: 9232
+Filename: pool/main/e/endlessnet-client/endlessnet-client_0.2.2_amd64.deb
+Size: 3198338
+MD5sum: 3845feaf93b3a4a9863d9d801a6ee684
+SHA1: cb6dc5d1d5b3038c650f20f4be03250a31faafa2
+SHA256: 715e04f43989a1262ced81a7e00dec046b2b09fc1acaca9c2902d217e491aada
 Section: net
 Priority: optional
 Description: EndlessNet CLI client
